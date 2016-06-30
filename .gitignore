@@ -2,6 +2,7 @@
 /node_modules
 /public/storage
 /storage
+/.idea
 Homestead.yaml
 Homestead.json
 .env
