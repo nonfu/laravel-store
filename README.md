@@ -4,6 +4,8 @@ A Simple Laravel Store Based On Laravel 5.2, For More Detail:<http://laravelacad
 
 # Usage
 
+``composer install``
+
 ``php -r "copy('.env.example', '.env');"``
 
 ``php artisan key:generate``
